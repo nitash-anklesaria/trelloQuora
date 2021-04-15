@@ -1,10 +1,9 @@
 # trelloQuora
 ###### Restful Web APIs
 ###### PGDSD (Blockchain) Course 5, Module 3 Assignment
-###### https://github.com/upgradApiGroup/trelloQuora | Nitash Anklesaria, Sourav Mishra, Anwar S
 
 ### Objective
-The objective of the assignment was to build a Quora-like website REST API endpoints using Java,
+The objective of the assignment was to build a Quora-like website's REST API endpoints using Java,
 Spring MVC, JPA, PostgreSQL and SwaggerUI.
 
 ### For DB Configuration
